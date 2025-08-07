@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kash!</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Coding hobbyist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashrtx&label=Profile%20views&color=0e75b6&style=flat" alt="kashrtx" /> </p>
 
