@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashrtx" alt="kashrtx" /></a> </p>
 
-- 🔭 I’m currently working on [Google Gemini Character Roleplay](https://geminicharacterroleplay.netlify.app/)
-- 🔭 Tweaking [Portfolio](https://kaushalbhingaradia.netlify.app)
+- 🔭 I’m currently working on [LiquidDrop](https://geminicharacterroleplay.netlify.app/](https://github.com/kashrtx/LiquidDrop)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
