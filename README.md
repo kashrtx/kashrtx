@@ -65,7 +65,7 @@ class Kash:
 ## 📌 Featured Projects
 
 ### 💧 [LiquidDrop](https://github.com/kashrtx/LiquidDrop)
-Drop files between your phone and computer in seconds. No accounts, no cloud, no config — just run it and scan.
+Drop files between your phone and computer in seconds. No accounts, no cloud, no config. Just run it and scan.
 
 ![Stars](https://img.shields.io/github/stars/kashrtx/LiquidDrop?style=flat-square&logo=github&label=Stars&color=7AA2F7&labelColor=0D1117)
 ![Language](https://img.shields.io/github/languages/top/kashrtx/LiquidDrop?style=flat-square&color=7AA2F7&labelColor=0D1117)
