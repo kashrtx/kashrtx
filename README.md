@@ -74,9 +74,9 @@ Drop files between your phone and computer in seconds. No accounts, no cloud, no
 ### 🎭 [Cast](https://github.com/kashrtx/Cast)
 Roleplay with AI characters from your favorite media or your own creation. Powered by Gemini and leading LLMs with large context windows for persistent memory and deep personality consistency. &nbsp;[**▶ Live Demo**](https://castrp.netlify.app/)
 
-![Stars](https://img.shields.io/github/stars/kashrtx/Gemini-Character-Roleplay?style=flat-square&logo=github&label=Stars&color=7AA2F7&labelColor=0D1117)
-![Language](https://img.shields.io/github/languages/top/kashrtx/Gemini-Character-Roleplay?style=flat-square&color=7AA2F7&labelColor=0D1117)
-![Last Commit](https://img.shields.io/github/last-commit/kashrtx/Gemini-Character-Roleplay?style=flat-square&label=Updated&color=7AA2F7&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/kashrtx/Cast?style=flat-square&logo=github&label=Stars&color=7AA2F7&labelColor=0D1117)
+![Language](https://img.shields.io/github/languages/top/kashrtx/Cast?style=flat-square&color=7AA2F7&labelColor=0D1117)
+![Last Commit](https://img.shields.io/github/last-commit/kashrtx/Cast?style=flat-square&label=Updated&color=7AA2F7&labelColor=0D1117)
 
 ### 🚀 [Galactic Empire Invaders](https://github.com/kashrtx/Galactic-Empire-Invaders)
 A Star Wars Space Invaders parody game built with Pygame.
