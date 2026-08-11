@@ -33,7 +33,7 @@ class Kash:
         print("Thanks for visiting! Go poke around my repos! 🚀")
 ```
 
-- 🔭 Currently building **[LiquidDrop](https://github.com/kashrtx/LiquidDrop)** and **[Gemini Character Roleplay](https://geminicharacterroleplay.netlify.app/)**
+- 🔭 Currently building **[LiquidDrop](https://github.com/kashrtx/LiquidDrop)** and **[Cast](https://castrp.netlify.app/)**
 - 🐍 Python is my go-to, with a soft spot for frontend/web projects
 - 🌱 Every project is an excuse to learn something new
 - ⚡ I make coding projects for the love of computers. Pure hobby, pure fun!
@@ -71,8 +71,8 @@ Drop files between your phone and computer in seconds. No accounts, no cloud, no
 ![Language](https://img.shields.io/github/languages/top/kashrtx/LiquidDrop?style=flat-square&color=7AA2F7&labelColor=0D1117)
 ![Last Commit](https://img.shields.io/github/last-commit/kashrtx/LiquidDrop?style=flat-square&label=Updated&color=7AA2F7&labelColor=0D1117)
 
-### 🎭 [Gemini Character Roleplay](https://github.com/kashrtx/Gemini-Character-Roleplay)
-Roleplay with AI characters using Google Gemini, with large context windows for consistent memory and personality. &nbsp;[**▶ Live Demo**](https://geminicharacterroleplay.netlify.app/)
+### 🎭 [Cast](https://github.com/kashrtx/Cast)
+Roleplay with AI characters from your favorite media or your own creation. Powered by Gemini and leading LLMs with large context windows for persistent memory and deep personality consistency. &nbsp;[**▶ Live Demo**](https://castrp.netlify.app/)
 
 ![Stars](https://img.shields.io/github/stars/kashrtx/Gemini-Character-Roleplay?style=flat-square&logo=github&label=Stars&color=7AA2F7&labelColor=0D1117)
 ![Language](https://img.shields.io/github/languages/top/kashrtx/Gemini-Character-Roleplay?style=flat-square&color=7AA2F7&labelColor=0D1117)
