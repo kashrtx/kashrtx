@@ -26,14 +26,14 @@ class Kash:
         self.role       = "Coding Hobbyist"
         self.company    = "Kash Industries"
         self.languages  = ["Python", "JavaScript"]
-        self.building   = ["LiquidDrop", "Gemini Character Roleplay"]
+        self.building   = ["LiquidDrop", "Cast", "PCSweep"]
         self.motto      = "It's an enjoyable and fun learning experience."
 
     def say_hi(self):
         print("Thanks for visiting! Go poke around my repos! 🚀")
 ```
 
-- 🔭 Currently building **[LiquidDrop](https://github.com/kashrtx/LiquidDrop)** and **[Cast](https://castrp.netlify.app/)**
+- 🔭 Currently building **[LiquidDrop](https://github.com/kashrtx/LiquidDrop)**,  **[Cast](https://castrp.netlify.app/)**, **[PCSweep](https://github.com/kashrtx/pcsweep)**
 - 🐍 Python is my go-to, with a soft spot for frontend/web projects
 - 🌱 Every project is an excuse to learn something new
 - ⚡ I make coding projects for the love of computers. Pure hobby, pure fun!
@@ -77,6 +77,13 @@ Roleplay with AI characters from your favorite media or your own creation. Power
 ![Stars](https://img.shields.io/github/stars/kashrtx/Cast?style=flat-square&logo=github&label=Stars&color=7AA2F7&labelColor=0D1117)
 ![Language](https://img.shields.io/github/languages/top/kashrtx/Cast?style=flat-square&color=7AA2F7&labelColor=0D1117)
 ![Last Commit](https://img.shields.io/github/last-commit/kashrtx/Cast?style=flat-square&label=Updated&color=7AA2F7&labelColor=0D1117)
+
+### 🧹 [PCSweep](https://github.com/kashrtx/pcsweep)
+A RUST-based app that helps you clean and optimize your Windows PC with ease.
+
+![Stars](https://img.shields.io/github/stars/kashrtx/PCSweep?style=flat-square&logo=github&label=Stars&color=7AA2F7&labelColor=0D1117)
+![Language](https://img.shields.io/github/languages/top/kashrtx/PCSweep?style=flat-square&color=7AA2F7&labelColor=0D1117)
+![Last Commit](https://img.shields.io/github/last-commit/kashrtx/PCSweep?style=flat-square&label=Updated&color=7AA2F7&labelColor=0D1117)
 
 ### 🚀 [Galactic Empire Invaders](https://github.com/kashrtx/Galactic-Empire-Invaders)
 A Star Wars Space Invaders parody game built with Pygame.
