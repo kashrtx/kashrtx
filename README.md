@@ -33,10 +33,10 @@ class Kash:
         print("Thanks for visiting! Go poke around my repos! 🚀")
 ```
 
-- 🔭 Currently building **[LiquidDrop](https://github.com/kashrtx/LiquidDrop)**,  **[Cast](https://castrp.netlify.app/)**, **[PCSweep](https://github.com/kashrtx/pcsweep)**
+- 🔭 Currently building **[LiquidDrop](https://github.com/kashrtx/LiquidDrop)**,  **[Cast](https://castrp.netlify.app/)**, **[PCSweep](https://github.com/kashrtx/pcsweep)**, **[RoomGuard](https://github.com/kashrtx/roomguard)**
 - 🐍 Python is my go-to, with a soft spot for frontend/web projects
 - 🌱 Every project is an excuse to learn something new
-- ⚡ I make coding projects for the love of computers. Pure hobby, pure fun!
+- ⚡ I make coding projects for the love of computers. Pure hobby, pure fun! Just start appreciating rust for the speed.
 
 <br/>
 
@@ -70,6 +70,13 @@ Drop files between your phone and computer in seconds. No accounts, no cloud, no
 ![Stars](https://img.shields.io/github/stars/kashrtx/LiquidDrop?style=flat-square&logo=github&label=Stars&color=7AA2F7&labelColor=0D1117)
 ![Language](https://img.shields.io/github/languages/top/kashrtx/LiquidDrop?style=flat-square&color=7AA2F7&labelColor=0D1117)
 ![Last Commit](https://img.shields.io/github/last-commit/kashrtx/LiquidDrop?style=flat-square&label=Updated&color=7AA2F7&labelColor=0D1117)
+
+### 🔐 [RoomGuard](https://github.com/kashrtx/roomguard)
+Turns your webcam into a real burglar security system so people stop barging into your room. Built in Rust with authentic 90s and 2000s keypads, classic sirens, and local owner recognition.
+
+![Stars](https://img.shields.io/github/stars/kashrtx/roomguard?style=flat-square&logo=github&label=Stars&color=7AA2F7&labelColor=0D1117)
+![Language](https://img.shields.io/github/languages/top/kashrtx/roomguard?style=flat-square&color=7AA2F7&labelColor=0D1117)
+![Last Commit](https://img.shields.io/github/last-commit/kashrtx/roomguard?style=flat-square&label=Updated&color=7AA2F7&labelColor=0D1117)
 
 ### 🎭 [Cast](https://github.com/kashrtx/Cast)
 Roleplay with AI characters from your favorite media or your own creation. Powered by Gemini and leading LLMs with large context windows for persistent memory and deep personality consistency. &nbsp;[**▶ Live Demo**](https://castrp.netlify.app/)
