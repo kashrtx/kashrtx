@@ -35,8 +35,8 @@ class Kash:
 
 - 🔭 Currently building **[LiquidDrop](https://github.com/kashrtx/LiquidDrop)**,  **[Cast](https://castrp.netlify.app/)**, **[PCSweep](https://github.com/kashrtx/pcsweep)**, **[RoomGuard](https://github.com/kashrtx/roomguard)**
 - 🐍 Python is my go-to, with a soft spot for frontend/web projects
-- 🌱 Every project is an excuse to learn something new
-- ⚡ I make coding projects for the love of computers. Pure hobby, pure fun! Just start appreciating rust for the speed.
+- 🌱 Every project is an excuse to learn something new. I just started appreciating rust for the speed.
+- ⚡ I make coding projects for the love of computers. Pure hobby, pure fun! 
 
 <br/>
 
