@@ -26,7 +26,7 @@ class Kash:
         self.role       = "Coding Hobbyist"
         self.company    = "Kash Industries"
         self.languages  = ["Python", "JavaScript"]
-        self.building   = ["LiquidDrop", "Cast", "PCSweep"]
+        self.building   = ["LiquidDrop", "Cast", "PCSweep", "RoomGuard"]
         self.motto      = "It's an enjoyable and fun learning experience."
 
     def say_hi(self):
