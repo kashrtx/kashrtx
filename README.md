@@ -72,7 +72,7 @@ Drop files between your phone and computer in seconds. No accounts, no cloud, no
 ![Last Commit](https://img.shields.io/github/last-commit/kashrtx/LiquidDrop?style=flat-square&label=Updated&color=7AA2F7&labelColor=0D1117)
 
 ### 🔐 [RoomGuard](https://github.com/kashrtx/roomguard)
-Turns your webcam into a real burglar security system so people stop barging into your room. Built in Rust with authentic 90s and 2000s keypads, classic sirens, and local owner recognition.
+Turns your webcam into a real burglar alarm system so people stop barging into your room. Built in Rust with late 90s and 2000s keypads, classic sirens, and local owner recognition.
 
 ![Stars](https://img.shields.io/github/stars/kashrtx/roomguard?style=flat-square&logo=github&label=Stars&color=7AA2F7&labelColor=0D1117)
 ![Language](https://img.shields.io/github/languages/top/kashrtx/roomguard?style=flat-square&color=7AA2F7&labelColor=0D1117)
